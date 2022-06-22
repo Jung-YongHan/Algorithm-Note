@@ -16,10 +16,10 @@
 * DFS/BFS
 
 ### Graph
-* Kruskal Algorithm
+* [Kruskal Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/Kruskal.py)
 * Topology-Sort
 * [Dijkstra Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/Dijkstra.py)
 * [Floyd-Warshall Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/floyd-warshall.py)
 
 ### Data-Structures
-* Disjoint-Sets
+* [Disjoint-Sets](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Data-Structures/Disjoint-Sets.py)
