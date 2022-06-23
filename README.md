@@ -14,6 +14,9 @@
     * [Using bisect Library](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Searching/binary-search-library.py)
     * [Non-Using Library (Advanced Technique)](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Searching/binary-search-technique.py)
 * DFS/BFS
+    * DFS
+    * BFS
+        * Implementing a Shortest Distance Table Using BFS
 
 ### Graph
 * [Kruskal Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/Kruskal.py)
@@ -23,3 +26,8 @@
 
 ### Data-Structures
 * [Disjoint-Sets](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Data-Structures/Disjoint-Sets.py)
+
+---
+##### (future update...)
+### String
+### Math
