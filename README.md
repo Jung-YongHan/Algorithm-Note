@@ -17,7 +17,7 @@
 
 ### Graph
 * [Kruskal Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/Kruskal.py)
-* Topology-Sort
+* [Topology-Sort](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Graph/topology-sort.py)
 * [Dijkstra Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/Dijkstra.py)
 * [Floyd-Warshall Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/floyd-warshall.py)
 
