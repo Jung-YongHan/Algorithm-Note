@@ -4,10 +4,10 @@
 
 ## Contents
 ### Sorting
-* Insertion Sort
-* Selection Sort
-* Quick Sort
-* Count Sort
+* [Insertion Sort](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Sorting/insertion-sort.py)
+* [Selection Sort](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Sorting/selection-sort.py)
+* [Quick Sort](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Sorting/quick-sort.py)
+* [Count Sort](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Sorting/count-sort.py)
 
 ### Searching
 * Binary-Search
