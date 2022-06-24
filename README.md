@@ -15,7 +15,9 @@
     * [Non-Using Library (Advanced Technique)](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Searching/binary-search-technique.py)
 * DFS/BFS
     * DFS
+        * Basic DFS
     * BFS
+        * Basic BFS
         * Implementing a Shortest Distance Table Using BFS
 
 ### Graph
@@ -31,3 +33,6 @@
 ##### (future update...)
 ### String
 ### Math
+### etc..
+* Two Pointer
+* Interval Sum
