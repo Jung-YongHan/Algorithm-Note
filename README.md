@@ -15,10 +15,10 @@
     * [Non-Using Library (Advanced Technique)](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Searching/binary-search-technique.py)
 * DFS/BFS
     * DFS
-        * Basic DFS
+        * [Basic DFS](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Searching/DFS.py)
     * BFS
-        * Basic BFS
-        * Implementing a Shortest Distance Table Using BFS
+        * [Basic BFS](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Searching/BFS.py)
+        * [Implementing a Shortest Distance Table Using BFS](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Searching/Shortest-Path-BFS.py)
 
 ### Graph
 * [Kruskal Algorithm](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Graph/Kruskal.py)
