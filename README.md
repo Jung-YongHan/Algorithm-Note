@@ -29,10 +29,10 @@
 ### Data-Structures
 * [Disjoint-Sets](https://github.com/Jung-YongHan/Algorithm-Note/blob/main/Data-Structures/Disjoint-Sets.py)
 
----
-##### (future update...)
 ### String
 ### Math
+* [PrimeNumber](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Math/PrimeNumber.py)
+* [Sieve-of-Eratosthenes](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Math/Sieve-of-Eratosthenes.py)
 ### etc..
-* Two Pointer
-* Interval Sum
+* [Two Pointer](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Miscellaneous/Two-Pointer.py)
+* [Interval Sum](https://github.com/Jung-YongHan/Python-Algorithm-Note/blob/main/Miscellaneous/Interval-Sum.py)
