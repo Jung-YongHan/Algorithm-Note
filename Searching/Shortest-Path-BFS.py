@@ -48,4 +48,3 @@ def bfs2(arr):
     
     return arr[n-1][n-1] + 1
 
-print(bfs2(array))
